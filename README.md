@@ -13,10 +13,12 @@ The goal of this lab assignment is to continue using the Jupyter framework to le
 
 ## 📝 Next steps
 1. Complete the work in the notebook here (5.4.0-Python_Introduction_Simple_Programs.ipynb).
-2. After you are done, att a text box at the bottom which describes ____
-3. Add a code block ____.
-4. Go in to the settings and change the repository visibility to "public". (This is at the bottom of settings)
-5. Transfer the ownership to your personal 
+2. After you are done, add a text box at the bottom which describes what you learned about Python in this lesson.
+3. After the text box, add a code block which does all of the following:
+    - Utilizes the `print()` statement to print text and a math calculation together as in the examples but which is unique.
+5. Download the notebook as an ".ipynb" file on your computer.
+6. Rename the file as "Python_Simple_Programs.ipynb" and upload it to this repository. 
 
 ## 📚  Resources 
-![Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
+
+[Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
