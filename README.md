@@ -15,6 +15,8 @@ The goal of this lab assignment is to continue using the Jupyter framework to le
 1. Complete the work in the notebook here (5.4.0-Python_Introduction_Simple_Programs.ipynb).
 2. After you are done, att a text box at the bottom which describes ____
 3. Add a code block ____.
+4. Go in to the settings and change the repository visibility to "public". (This is at the bottom of settings)
+5. Transfer the ownership to your personal 
 
 ## 📚  Resources 
 ![Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
